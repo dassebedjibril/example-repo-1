@@ -3,7 +3,7 @@ Hello world!!!!
 
 Third change!
 
-# New version of this course (2020)
+# New version of this course (2022)
 ### gitforeverybody.com
 
 http://gitforeverybody.com/ is designed to help people learn Git (and more advanced Git) from scratch. It is a 3 hour premium course.
