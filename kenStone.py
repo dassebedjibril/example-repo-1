@@ -3,6 +3,10 @@
 import numpy as np
 
 
+def sum(a,b):
+    return a+b
+
+
 # --- input ---
 # X : dataset of X-variables (samples x variables)
 # k : number of samples to be selected
